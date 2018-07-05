@@ -1,3 +1,8 @@
-##Start new file
+##Starter Web Project
 
 ##Introduction
+
+##Purpose
+
+
+##How To Contribute
